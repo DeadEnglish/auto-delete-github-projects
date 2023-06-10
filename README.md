@@ -10,8 +10,6 @@ Look, I'm **sick** and **tired** of typing the project name and clicking confirm
 
 Install [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/), [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), then **[click here to install the script](https://github.com/DeadEnglish/auto-delete-github-projects/raw/master/auto-delete-projects.user.js)**.
 
-Ports of Greasemonkey are available for [SeaMonkey](https://sourceforge.net/projects/gmport/) and [Pale Moon](https://github.com/janekptacijarabaci/greasemonkey/releases/latest).
-
 ### Chromium
 
 **Userscript**: Install [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://tampermonkey.net/), then **[click here to install the script](https://github.com/DeadEnglish/auto-delete-github-projects/raw/master/auto-delete-projects.user.js)**..
