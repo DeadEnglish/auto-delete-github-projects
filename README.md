@@ -12,7 +12,7 @@ Install [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmo
 
 ### Chromium
 
-**Userscript**: Install [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://tampermonkey.net/), then **[click here to install the script](https://github.com/DeadEnglish/auto-delete-github-projects/raw/master/auto-delete-projects.user.js)**..
+**Userscript**: Install [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://tampermonkey.net/), then **[click here to install the script](https://github.com/DeadEnglish/auto-delete-github-projects/raw/master/auto-delete-projects.user.js)**.
 
 ## TODO
 
